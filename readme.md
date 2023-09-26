@@ -48,7 +48,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned more about Android Studio and the Kotlin syntax by fixing the syntax and having to look up the Kotlin documentation.
 
 ## License
 
