@@ -11,9 +11,10 @@ class FavoriteNumber : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContentView(R.layout.activity_favorite_number)
 
-        val number: Int = null!!
+        val number: Int = 1
         favoriteNumber.text = "$number"
     }
 }
