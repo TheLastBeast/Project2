@@ -48,7 +48,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-I learned more about Android Studio and the Kotlin syntax by fixing the syntax and having to look up the Kotlin documentation.
+I learned more about Android Studio and the Kotlin syntax by fixing the syntax and having to look up the Kotlin documentation. The problem I have the most trouble with is navigating GitHub. That is what took the most time to try and get working.
 
 ## License
 
